@@ -1,0 +1,2 @@
+# GhostMC.STORE..
+OFFICIAL GhostMC STORE
