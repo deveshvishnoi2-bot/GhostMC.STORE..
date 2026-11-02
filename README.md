@@ -124,43 +124,29 @@
     
     <div class="overflow-hidden whitespace-nowrap ml-3 flex-1 mask-linear">
       <div class="ticker-wrapper flex items-center gap-10 font-medium text-slate-200">
-        <!-- Message Repeat 1 -->
-      <div class="flex items-center gap-8">
-        <span class="text-gold-400 font-bold flex items-center gap-1.5"><i class="fa-solid fa-heart-pulse text-red-500 animate-pulse"></i> GHOST LIFESTEAL SEASON 1 LAUNCHED!</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-emerald-400 font-bold flex items-center gap-1.5">🏆 PVP EVENT 1ST WINNER: <span class="text-white underline decoration-gold-400 font-mono">flaxxy444</span> 🥇</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-blue-400 font-bold flex items-center gap-1.5">🥈 2ND WINNER: <span class="text-white underline decoration-blue-400 font-mono">senkist13</span></span>
-        <span class="text-slate-400">•</span>
-        <span class="text-rose-400 font-semibold flex items-center gap-1.5">⚔️ STEAL HEARTS & CONQUER THE LIFESTEAL REALM!</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-yellow-400 font-bold">🛒 LEGEND KIT AVAILABLE IN STORE FOR ₹40 INR ONLY!</span>
-      </div>
-      
-      <!-- Message Repeat 2 (Seamless loop) -->
-      <div class="flex items-center gap-8">
-        <span class="text-gold-400 font-bold flex items-center gap-1.5"><i class="fa-solid fa-heart-pulse text-red-500 animate-pulse"></i> GHOST LIFESTEAL SEASON 1 LAUNCHED!</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-emerald-400 font-bold flex items-center gap-1.5">🏆 PVP EVENT 1ST WINNER: <span class="text-white underline decoration-gold-400 font-mono">flaxxy444</span> 🥇</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-blue-400 font-bold flex items-center gap-1.5">🥈 2ND WINNER: <span class="text-white underline decoration-blue-400 font-mono">senkist13</span></span>
-        <span class="text-slate-400">•</span>
-        <span class="text-rose-400 font-semibold flex items-center gap-1.5">⚔️ STEAL HEARTS & CONQUER THE LIFESTEAL REALM!</span>
-        <span class="text-slate-400">•</span>
-        <span class="text-yellow-400 font-bold">🛒 LEGEND KIT AVAILABLE IN STORE FOR ₹40 INR ONLY!</span>
-      </div>
-        
-        <!-- Message Repeat 2 (Seamless loop) -->
         <div class="flex items-center gap-8">
-          <span class="text-gold-400 font-bold flex items-center gap-1.5"><i class="fa-solid fa-bolt"></i> GHOST SMP SEASON 1 LAUNCHED!</span>
+          <span class="text-gold-400 font-bold flex items-center gap-1.5"><i class="fa-solid fa-heart-pulse text-red-500 animate-pulse"></i> GHOST SMP SEASON 1 LAUNCHED!</span>
           <span class="text-slate-400">•</span>
-          <span class="text-emerald-400 font-bold flex items-center gap-1.5">🏆 PVP EVENT 1ST WINNER: <span class="text-white underline decoration-gold-400 font-mono">flaxxy444</span> 🥇</span>
+          <span class="text-emerald-400 font-bold flex items-center gap-1.5">🏆 PVP EVENT 1ST WINNER - <span class="text-white underline decoration-gold-400 font-mono">flaxxy444</span> 🥇</span>
           <span class="text-slate-400">•</span>
-          <span class="text-blue-400 font-bold flex items-center gap-1.5">🥈 2ND WINNER: <span class="text-white underline decoration-blue-400 font-mono">senkist13</span></span>
+          <span class="text-blue-400 font-bold flex items-center gap-1.5">🥈 2ND WINNER - <span class="text-white underline decoration-blue-400 font-mono">senkist13</span></span>
           <span class="text-slate-400">•</span>
-          <span class="text-amber-300 font-semibold flex items-center gap-1.5">⚔️ NEXT BIG EVENT COMING SOON - JOIN DISCORD TO PARTICIPATE!</span>
+          <span class="text-rose-400 font-semibold flex items-center gap-1.5">⚔️ GHOSTMC LIFESTEAL READY TO PLAY!</span>
           <span class="text-slate-400">•</span>
-          <span class="text-yellow-400 font-bold">🛒 LEGEND KIT AVAILABLE IN STORE FOR ₹40 INR ONLY!</span>
+          <span class="text-yellow-400 font-bold">💎 BUY LEGEND KIT FOR JUST ₹40 INR!</span>
+        </div>
+        
+        <!-- Repeat for seamless continuous loop -->
+        <div class="flex items-center gap-8">
+          <span class="text-gold-400 font-bold flex items-center gap-1.5"><i class="fa-solid fa-heart-pulse text-red-500 animate-pulse"></i> GHOST SMP SEASON 1 LAUNCHED!</span>
+          <span class="text-slate-400">•</span>
+          <span class="text-emerald-400 font-bold flex items-center gap-1.5">🏆 PVP EVENT 1ST WINNER - <span class="text-white underline decoration-gold-400 font-mono">flaxxy444</span> 🥇</span>
+          <span class="text-slate-400">•</span>
+          <span class="text-blue-400 font-bold flex items-center gap-1.5">🥈 2ND WINNER - <span class="text-white underline decoration-blue-400 font-mono">senkist13</span></span>
+          <span class="text-slate-400">•</span>
+          <span class="text-rose-400 font-semibold flex items-center gap-1.5">⚔️ GHOSTMC LIFESTEAL READY TO PLAY!</span>
+          <span class="text-slate-400">•</span>
+          <span class="text-yellow-400 font-bold">💎 BUY LEGEND KIT FOR JUST ₹40 INR!</span>
         </div>
       </div>
     </div>
@@ -172,25 +158,34 @@
     <span id="toast-text" class="text-sm font-semibold tracking-wide">Copied to clipboard!</span>
   </div>
 
-  <!-- Lightbox Modal for Gallery Images -->
-  <div id="image-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/90 backdrop-blur-md opacity-0 pointer-events-none transition-all duration-300" onclick="closeImageModal()">
-    <div class="relative max-w-5xl w-full max-h-[90vh] flex flex-col items-center" onclick="event.stopPropagation()">
-      <button onclick="closeImageModal()" class="absolute -top-12 right-0 text-slate-300 hover:text-white bg-slate-800/80 px-3 py-1.5 rounded-lg border border-slate-700 text-sm font-semibold flex items-center gap-1.5">
-        <i class="fa-solid fa-xmark"></i> Close
-      </button>
-      <img id="modal-img-element" src="" alt="PVP Event Preview" class="w-full h-auto max-h-[80vh] object-contain rounded-2xl border-2 border-gold-500/50 shadow-2xl">
-      <div id="modal-img-caption" class="mt-3 text-gold-300 font-bold text-sm tracking-wide bg-slate-900/90 border border-slate-800 px-4 py-2 rounded-xl"></div>
-    </div>
-  </div>
-
   <!-- Navbar -->
   <header class="sticky top-[39px] z-40 backdrop-blur-md bg-smpDark/90 border-b border-smpBorder/80">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
       
-      <!-- Logo Branding -->
+      <!-- Custom Procedural Logo Branding -->
       <a href="#home" class="flex items-center gap-3.5 group">
-        <div class="w-12 h-12 flex items-center justify-center relative rounded-xl overflow-hidden shadow-md shadow-gold-500/20 border border-gold-500/30">
-          <img src="image_2fdf01.jpg" alt="Ghost MC Logo" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300">
+        <div class="w-12 h-12 flex items-center justify-center relative rounded-xl overflow-hidden shadow-md shadow-gold-500/20 border border-gold-500/40 bg-gradient-to-br from-amber-500/20 to-slate-900">
+          <svg class="w-9 h-9 transform group-hover:scale-110 transition-transform duration-300 drop-shadow-[0_0_8px_rgba(250,204,21,0.8)]" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <!-- Shield Outline -->
+            <path d="M50 8L82 20V50C82 72 50 92 50 92C50 92 18 72 18 50V20L50 8Z" fill="url(#navShieldGrad)" stroke="#FACC15" stroke-width="3"/>
+            <!-- Wings -->
+            <path d="M22 36C12 28 8 40 12 52C16 48 24 44 26 42" stroke="#FDE047" stroke-width="2.5" stroke-linecap="round" fill="rgba(250,204,21,0.2)"/>
+            <path d="M78 36C88 28 92 40 88 52C84 48 76 44 74 42" stroke="#FDE047" stroke-width="2.5" stroke-linecap="round" fill="rgba(250,204,21,0.2)"/>
+            <!-- Crown -->
+            <path d="M38 28L44 33L50 24L56 33L62 28V37H38V28Z" fill="#FACC15"/>
+            <!-- Ghost Entity -->
+            <path d="M36 44C36 36 64 36 64 44V64C64 64 60 60 56 64C52 68 48 68 44 64C40 60 36 64 36 64V44Z" fill="#FFFBEB" stroke="#CA8A04" stroke-width="2"/>
+            <circle cx="43" cy="48" r="2.5" fill="#1E1B4B"/>
+            <circle cx="57" cy="48" r="2.5" fill="#1E1B4B"/>
+            <path d="M46 55Q50 58 54 55" stroke="#1E1B4B" stroke-width="2" stroke-linecap="round"/>
+            <defs>
+              <linearGradient id="navShieldGrad" x1="18" y1="8" x2="82" y2="92" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#451A03"/>
+                <stop offset="0.5" stop-color="#1E1B4B"/>
+                <stop offset="1" stop-color="#020617"/>
+              </linearGradient>
+            </defs>
+          </svg>
         </div>
         <div class="flex flex-col">
           <span class="font-heading text-xl font-black text-transparent bg-clip-text bg-gradient-to-r from-gold-300 via-gold-400 to-amber-500 tracking-wider">GHOST MC</span>
@@ -203,9 +198,6 @@
       <!-- Navigation Links -->
       <nav class="hidden md:flex items-center gap-7">
         <a href="#home" class="text-slate-300 hover:text-gold-400 transition-colors text-sm font-medium">Home</a>
-        <a href="#gallery" class="text-slate-300 hover:text-gold-400 transition-colors text-sm font-medium flex items-center gap-1.5">
-          <i class="fa-solid fa-camera text-xs text-gold-400"></i> Event Gallery
-        </a>
         <a href="#store" class="text-slate-300 hover:text-gold-400 transition-colors text-sm font-medium flex items-center gap-1.5">
           <i class="fa-solid fa-cart-shopping text-xs text-gold-400"></i> Store
         </a>
@@ -234,15 +226,78 @@
   <main class="relative z-10">
 
     <!-- Hero Section -->
-    <section id="home" class="pt-10 pb-14 md:pt-12 md:pb-20 max-w-6xl mx-auto px-4 text-center">
+    <section id="home" class="pt-10 pb-14 md:pt-14 md:pb-20 max-w-6xl mx-auto px-4 text-center">
       
-      <!-- New Ghost MC Crest Logo Display -->
+      <!-- Custom High-Res Winged Ghost Crest Mascot -->
       <div class="relative flex justify-center mb-6">
         <div class="relative w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 animate-float">
           <!-- Ambient Glow behind Crest Logo -->
-          <div class="absolute inset-0 bg-gold-500/30 blur-3xl rounded-full scale-90"></div>
+          <div class="absolute inset-0 bg-gold-500/25 blur-3xl rounded-full scale-95 pointer-events-none"></div>
           
-          <img src="image_2fdf01.jpg" alt="Ghost MC Official Logo" class="w-full h-full object-contain relative z-10 rounded-3xl drop-shadow-[0_12px_35px_rgba(234,179,8,0.5)] border-2 border-gold-500/40">
+          <svg class="w-full h-full object-contain relative z-10 drop-shadow-[0_15px_40px_rgba(234,179,8,0.45)]" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <radialGradient id="crestGlow" cx="50%" cy="50%" r="50%">
+                <stop offset="0%" stop-color="#FACC15" stop-opacity="0.25"/>
+                <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
+              </radialGradient>
+              <linearGradient id="goldShield" x1="50" y1="30" x2="350" y2="370" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#78350F"/>
+                <stop offset="0.3" stop-color="#B45309"/>
+                <stop offset="0.7" stop-color="#1E1B4B"/>
+                <stop offset="1" stop-color="#020617"/>
+              </linearGradient>
+              <linearGradient id="goldBorder" x1="0" y1="0" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FEF08A"/>
+                <stop offset="0.5" stop-color="#F59E0B"/>
+                <stop offset="1" stop-color="#78350F"/>
+              </linearGradient>
+              <linearGradient id="wingGrad" x1="0" y1="0" x2="1" y2="1">
+                <stop stop-color="#FEF08A"/>
+                <stop offset="0.5" stop-color="#FACC15"/>
+                <stop offset="1" stop-color="#D97706"/>
+              </linearGradient>
+              <linearGradient id="ghostGrad" x1="0" y1="0" x2="0" y2="1">
+                <stop stop-color="#FFFFFF"/>
+                <stop offset="0.7" stop-color="#FEF3C7"/>
+                <stop offset="1" stop-color="#FDE68A"/>
+              </linearGradient>
+            </defs>
+
+            <!-- Outer Shield Base -->
+            <path d="M200 24L324 72V192C324 280 200 360 200 360C200 360 76 280 76 192V72L200 24Z" fill="url(#goldShield)" stroke="url(#goldBorder)" stroke-width="8" stroke-linejoin="round"/>
+            <path d="M200 42L306 84V188C306 264 200 336 200 336C200 336 94 264 94 188V84L200 42Z" stroke="#FDE047" stroke-width="2.5" opacity="0.6"/>
+
+            <!-- Majestic Golden Wings -->
+            <path d="M96 150C48 108 30 162 44 216C62 202 88 190 106 182" stroke="url(#wingGrad)" stroke-width="8" stroke-linecap="round" fill="rgba(250,204,21,0.18)"/>
+            <path d="M92 186C58 160 48 200 60 236C74 224 90 216 102 210" stroke="url(#wingGrad)" stroke-width="6" stroke-linecap="round" fill="rgba(250,204,21,0.15)"/>
+            
+            <path d="M304 150C352 108 370 162 356 216C338 202 312 190 294 182" stroke="url(#wingGrad)" stroke-width="8" stroke-linecap="round" fill="rgba(250,204,21,0.18)"/>
+            <path d="M308 186C342 160 352 200 340 236C326 224 310 216 298 210" stroke="url(#wingGrad)" stroke-width="6" stroke-linecap="round" fill="rgba(250,204,21,0.15)"/>
+
+            <!-- Golden Crown with Red Ruby -->
+            <path d="M152 110L174 132L200 96L226 132L248 110V148H152V110Z" fill="url(#wingGrad)" stroke="#78350F" stroke-width="3" stroke-linejoin="round"/>
+            <circle cx="200" cy="124" r="5" fill="#EF4444" stroke="#FFF" stroke-width="1.5"/>
+            <circle cx="166" cy="132" r="3" fill="#3B82F6"/>
+            <circle cx="234" cy="132" r="3" fill="#3B82F6"/>
+
+            <!-- Cute Fierce Ghost Body -->
+            <path d="M148 174C148 140 252 140 252 174V246C252 246 238 234 224 246C210 258 190 258 176 246C162 234 148 246 148 246V174Z" fill="url(#ghostGrad)" stroke="#B45309" stroke-width="5" stroke-linejoin="round" filter="drop-shadow(0 6px 12px rgba(0,0,0,0.5))"/>
+            
+            <!-- Eyes & Mouth -->
+            <ellipse cx="174" cy="190" rx="9" ry="12" fill="#0F172A"/>
+            <ellipse cx="226" cy="190" rx="9" ry="12" fill="#0F172A"/>
+            <circle cx="177" cy="186" r="3.5" fill="#EF4444"/>
+            <circle cx="229" cy="186" r="3.5" fill="#EF4444"/>
+            <ellipse cx="200" cy="214" rx="14" ry="10" fill="#7F1D1D"/>
+            <path d="M192 208C196 214 204 214 208 208" stroke="#FEF08A" stroke-width="2.5" stroke-linecap="round"/>
+
+            <!-- Cross Swords at Bottom of Mascot -->
+            <path d="M168 280L232 304M232 280L168 304" stroke="#FACC15" stroke-width="4" stroke-linecap="round"/>
+
+            <!-- Banner 'GHOST MC' -->
+            <rect x="110" y="306" width="180" height="38" rx="8" fill="#1E1B4B" stroke="#FACC15" stroke-width="3"/>
+            <text x="200" y="331" font-family="'Cinzel', serif" font-size="19" font-weight="900" fill="#FACC15" text-anchor="middle" letter-spacing="3" stroke="#000" stroke-width="0.5">GHOST MC</text>
+          </svg>
         </div>
       </div>
 
@@ -265,7 +320,7 @@
         <!-- Refresh Header Bar -->
         <div class="flex items-center justify-between px-2 mb-2.5">
           <div class="flex items-center gap-2 text-xs text-slate-400">
-            <span class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+            <span id="telemetry-dot" class="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
             <span>Live Server Telemetry</span>
             <span id="last-updated-text" class="text-[11px] text-slate-500">(Auto-sync active)</span>
           </div>
@@ -301,52 +356,29 @@
             </div>
           </div>
 
-          <!-- Live Players Online Card (Now includes Usernames directly inside) -->
+          <!-- Real Players Online Tracker (NO FAKE DATA) -->
           <div class="bg-smpCard/90 border border-smpBorder hover:border-gold-500/50 transition-all p-4 rounded-xl shadow-lg relative overflow-hidden group">
             <div class="text-xs text-slate-400 uppercase tracking-wider font-semibold flex items-center justify-between">
               <span>Players Online</span>
               <i class="fa-solid fa-users text-gold-400 text-xs"></i>
             </div>
             <div class="flex items-baseline gap-1.5 mt-1">
-              <span id="server-players-online" class="text-2xl font-black font-mono text-white tracking-tight">6</span>
-              <span id="server-players-max" class="text-xs text-slate-500 font-mono">/ 50</span>
+              <span id="server-players-online" class="text-2xl font-black font-mono text-white tracking-tight">0</span>
+              <span id="server-players-max" class="text-xs text-slate-500 font-mono">/ --</span>
             </div>
-            <div class="text-[10px] text-emerald-400 font-medium mt-0.5 flex items-center gap-1">
-              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-              <span id="server-players-status">6 active combatants</span>
+            <div class="text-[10px] text-slate-400 font-medium mt-0.5 flex items-center gap-1">
+              <span id="players-pulse-dot" class="w-1.5 h-1.5 rounded-full bg-slate-500"></span>
+              <span id="server-players-status">Querying live server...</span>
             </div>
 
-            <!-- Direct In-Card Username Roster -->
+            <!-- Direct In-Card Username Roster (Rendered Only When Real Players Are Online) -->
             <div class="mt-2.5 pt-2.5 border-t border-slate-800/80">
               <div class="text-[10px] uppercase font-bold text-slate-400 flex items-center justify-between mb-1.5">
-                <span>Who's Online:</span>
-                <span id="roster-count-tag" class="font-mono text-gold-400 text-[9px] bg-slate-900 px-1.5 py-0.5 rounded">6 active</span>
+                <span>Active Combatants:</span>
+                <span id="roster-count-tag" class="font-mono text-gold-400 text-[9px] bg-slate-900 px-1.5 py-0.5 rounded">0 online</span>
               </div>
               <div id="card-players-list" class="flex flex-wrap gap-1.5 max-h-28 overflow-y-auto pr-1">
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/flaxxy444/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=F'" alt="flaxxy444" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">flaxxy444</span>
-                </div>
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/senkist13/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=S'" alt="senkist13" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">senkist13</span>
-                </div>
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/Subham0G/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=S'" alt="Subham0G" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">Subham0G</span>
-                </div>
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/AlyaaTsb/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=A'" alt="AlyaaTsb" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">AlyaaTsb</span>
-                </div>
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/BTX_GAMERZ/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=B'" alt="BTX_GAMERZ" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">BTX_GAMERZ</span>
-                </div>
-                <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-                  <img src="https://mc-heads.net/avatar/Mr_Legend/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=M'" alt="Mr_Legend" class="w-3.5 h-3.5 rounded-sm">
-                  <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">Mr_Legend</span>
-                </div>
+                <span class="text-[11px] text-slate-500 italic">No players online right now</span>
               </div>
             </div>
           </div>
@@ -373,127 +405,6 @@
             <div class="text-[10px] text-slate-400 mt-1 truncate">2nd: senkist13 🥈</div>
           </div>
         </div>
-      </div>
-    </section>
-
-    <!-- PHOTO GALLERY / PVP EVENT HIGHLIGHTS SECTION -->
-    <section id="gallery" class="py-16 bg-slate-950/90 border-t border-b border-smpBorder/70 relative">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        <div class="text-center mb-12">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-gold-500/10 border border-gold-500/30 text-gold-400 text-xs font-bold uppercase tracking-widest mb-3">
-            <i class="fa-solid fa-trophy"></i> Official Tournament Highlights
-          </div>
-          <h2 class="text-3xl sm:text-5xl font-heading font-black text-white tracking-wide">
-            📸 LIFESTEAL MEMORIES & PVP EVENTS
-          </h2>
-          <p class="text-slate-400 text-sm sm:text-base mt-3 max-w-2xl mx-auto">
-            Take a look at the glorious moments from our latest Ghost MC Colosseum Championship! Click on any screenshot to view in full resolution.
-          </p>
-        </div>
-
-        <!-- 4 Photo Grid (PVP EVENT TAGGED) -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
-          
-          <!-- Image 1: Diamond Line-up -->
-          <div class="group relative bg-smpCard border border-smpBorder hover:border-gold-500/60 rounded-2xl overflow-hidden shadow-xl transition-all duration-300 cursor-pointer" onclick="openImageModal('image_2fdb9e.jpg', 'PVP Event: Tournament Line-up & Staff Ceremony')">
-            <div class="relative overflow-hidden aspect-[16/9]">
-              <img src="image_2fdb9e.jpg" alt="PVP Tournament Lineup" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-              
-              <!-- Tag Badge -->
-              <div class="absolute top-3 left-3 bg-gradient-to-r from-amber-500 to-yellow-600 text-black text-xs font-black px-3 py-1 rounded-lg uppercase tracking-wider shadow-lg flex items-center gap-1.5">
-                <i class="fa-solid fa-trophy text-[11px]"></i> PVP EVENT
-              </div>
-
-              <!-- Overlay Hover Prompt -->
-              <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                <span class="bg-black/75 text-gold-400 text-xs font-bold px-3 py-1.5 rounded-lg border border-gold-500/40 flex items-center gap-1.5">
-                  <i class="fa-solid fa-expand"></i> Click to Zoom
-                </span>
-              </div>
-            </div>
-            <div class="p-4 border-t border-slate-800/80">
-              <h4 class="font-bold text-white text-base">Grand Opening Line-up</h4>
-              <p class="text-xs text-slate-400 mt-1">Warriors assembled in full Diamond Armor on the central stadium platform before the battle began.</p>
-            </div>
-          </div>
-
-          <!-- Image 2: Winners Podium (flaxxy444 & SenKist13) -->
-          <div class="group relative bg-smpCard border-2 border-gold-500/60 rounded-2xl overflow-hidden shadow-2xl transition-all duration-300 cursor-pointer gold-glow" onclick="openImageModal('image_2fdb62.jpg', 'PVP Event Winners: 1st Place flaxxy444 & 2nd Place senkist13')">
-            <div class="relative overflow-hidden aspect-[16/9]">
-              <img src="image_2fdb62.jpg" alt="PVP Event Winners Podium" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-              
-              <!-- Tag Badge -->
-              <div class="absolute top-3 left-3 bg-gradient-to-r from-gold-400 via-amber-500 to-yellow-600 text-black text-xs font-black px-3 py-1 rounded-lg uppercase tracking-wider shadow-lg flex items-center gap-1.5">
-                <i class="fa-solid fa-crown text-[11px]"></i> PVP EVENT • WINNERS
-              </div>
-
-              <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                <span class="bg-black/75 text-gold-400 text-xs font-bold px-3 py-1.5 rounded-lg border border-gold-500/40 flex items-center gap-1.5">
-                  <i class="fa-solid fa-expand"></i> Click to Zoom
-                </span>
-              </div>
-            </div>
-            <div class="p-4 border-t border-slate-800/80 bg-gradient-to-b from-transparent to-gold-950/20">
-              <div class="flex items-center justify-between">
-                <h4 class="font-bold text-gold-300 text-base flex items-center gap-2">
-                  <span>🏆 Winners Podium Ceremony</span>
-                </h4>
-                <span class="text-[11px] font-mono font-bold bg-gold-500/20 text-gold-400 px-2 py-0.5 rounded">OFFICIAL RESULTS</span>
-              </div>
-              <p class="text-xs text-slate-300 mt-1">
-                <strong>1st Winner:</strong> <span class="text-amber-400 font-bold">flaxxy444</span> (VIP) &nbsp;|&nbsp; 
-                <strong>2nd Winner:</strong> <span class="text-blue-400 font-bold">senkist13</span> (Member)
-              </p>
-            </div>
-          </div>
-
-          <!-- Image 3: Audience & Spectators Platform -->
-          <div class="group relative bg-smpCard border border-smpBorder hover:border-gold-500/60 rounded-2xl overflow-hidden shadow-xl transition-all duration-300 cursor-pointer" onclick="openImageModal('image_2fd840.jpg', 'PVP Event: Spectator Rail & Arena Oversight')">
-            <div class="relative overflow-hidden aspect-[16/9]">
-              <img src="image_2fd840.jpg" alt="PVP Event Spectators" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-              
-              <!-- Tag Badge -->
-              <div class="absolute top-3 left-3 bg-gradient-to-r from-amber-500 to-yellow-600 text-black text-xs font-black px-3 py-1 rounded-lg uppercase tracking-wider shadow-lg flex items-center gap-1.5">
-                <i class="fa-solid fa-trophy text-[11px]"></i> PVP EVENT
-              </div>
-
-              <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                <span class="bg-black/75 text-gold-400 text-xs font-bold px-3 py-1.5 rounded-lg border border-gold-500/40 flex items-center gap-1.5">
-                  <i class="fa-solid fa-expand"></i> Click to Zoom
-                </span>
-              </div>
-            </div>
-            <div class="p-4 border-t border-slate-800/80">
-              <h4 class="font-bold text-white text-base">Media & Spectator Arena Box</h4>
-              <p class="text-xs text-slate-400 mt-1">Players including [MEDIA] SubhamOG, AlyaaTsb, and fighters cheering during match preliminaries.</p>
-            </div>
-          </div>
-
-          <!-- Image 4: Arena Combat Action -->
-          <div class="group relative bg-smpCard border border-smpBorder hover:border-gold-500/60 rounded-2xl overflow-hidden shadow-xl transition-all duration-300 cursor-pointer" onclick="openImageModal('image_2fd803.jpg', 'PVP Event: Gladiator Ring 1v1 Battle Action')">
-            <div class="relative overflow-hidden aspect-[16/9]">
-              <img src="image_2fd803.jpg" alt="PVP Event Battle Ring" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-              
-              <!-- Tag Badge -->
-              <div class="absolute top-3 left-3 bg-gradient-to-r from-amber-500 to-yellow-600 text-black text-xs font-black px-3 py-1 rounded-lg uppercase tracking-wider shadow-lg flex items-center gap-1.5">
-                <i class="fa-solid fa-trophy text-[11px]"></i> PVP EVENT
-              </div>
-
-              <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                <span class="bg-black/75 text-gold-400 text-xs font-bold px-3 py-1.5 rounded-lg border border-gold-500/40 flex items-center gap-1.5">
-                  <i class="fa-solid fa-expand"></i> Click to Zoom
-                </span>
-              </div>
-            </div>
-            <div class="p-4 border-t border-slate-800/80">
-              <h4 class="font-bold text-white text-base">Intense Sand-Arena Clashes</h4>
-              <p class="text-xs text-slate-400 mt-1">Clutches, sword combos, and shield blocks under the watch of Co-Owner Mr_League inside the stadium ring.</p>
-            </div>
-          </div>
-
-        </div>
-
       </div>
     </section>
 
@@ -638,7 +549,7 @@
               <div class="flex flex-col sm:flex-row gap-3">
                 
                 <!-- Open UPI intent link button (Works directly on Phone GPay, PhonePe, Paytm, BHIM) -->
-                <a href="upi://pay?pa=ghostmc.fund@axl&pn=GhostMC&am=40&cu=INR&tn=Legend+Kit" class="shine-btn flex-1 bg-gradient-to-r from-gold-500 via-amber-500 to-yellow-500 hover:from-gold-400 hover:to-yellow-400 text-black font-extrabold py-3.5 px-6 rounded-xl text-center shadow-lg shadow-gold-500/25 transition-all flex items-center justify-center gap-2">
+                <a href="upi://pay?pa=ghostmc.fund@axl&pn=GhostMC&am=40&cu=INR" class="shine-btn flex-1 bg-gradient-to-r from-gold-500 via-amber-500 to-yellow-500 hover:from-gold-400 hover:to-yellow-400 text-black font-extrabold py-3.5 px-6 rounded-xl text-center shadow-lg shadow-gold-500/25 transition-all flex items-center justify-center gap-2">
                   <i class="fa-solid fa-mobile-screen-button text-base"></i>
                   <span>Pay ₹40 with UPI App</span>
                 </a>
@@ -655,7 +566,7 @@
                 <i class="fa-solid fa-circle-exclamation text-amber-400 text-base shrink-0 mt-0.5"></i>
                 <div class="leading-relaxed">
                   <strong class="text-white font-bold block mb-0.5">Important Claim Instruction:</strong>
-                  After completing payment, please join our Discord server (<a href="https://discord.gg/H4p2TuNCA" target="_blank" class="text-gold-400 underline font-semibold">https://discord.gg/H4p2TuNCA</a>) and create a ticket in #tickets channel with your payment screenshot &amp; in-game username to claim your kit.
+                  After purchasing via UPI, please take a screenshot of your payment and create a ticket in our official Discord server to receive your kit instantly in-game!
                 </div>
               </div>
 
@@ -791,7 +702,9 @@
   <footer class="border-t border-smpBorder/60 bg-slate-950 py-10 text-slate-500 text-xs">
     <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
       <div class="flex items-center gap-3">
-        <img src="image_2fdf01.jpg" alt="Ghost MC Logo" class="w-8 h-8 rounded-lg object-cover border border-gold-500/40">
+        <div class="w-8 h-8 rounded-lg border border-gold-500/40 bg-slate-900 flex items-center justify-center">
+          <i class="fa-solid fa-ghost text-gold-400 text-sm"></i>
+        </div>
         <span class="font-heading font-bold text-slate-300 text-sm tracking-wider">GHOST LIFESTEAL SMP</span>
       </div>
       <div>
@@ -812,108 +725,177 @@
       <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-amber-500/10 via-gold-500/15 to-amber-500/10 border border-gold-500/30 shadow-[0_0_15px_rgba(234,179,8,0.2)]">
         <i class="fa-solid fa-wand-magic-sparkles text-gold-400 text-xs animate-pulse"></i>
         <span class="text-xs uppercase tracking-widest font-semibold text-slate-300">
-          Powered by <strong class="text-transparent bg-clip-text bg-gradient-to-r from-gold-300 via-amber-400 to-yellow-500 font-extrabold tracking-wider text-sm">DEVESH</strong>
+          POWERED BY <strong class="text-transparent bg-clip-text bg-gradient-to-r from-gold-300 via-amber-400 to-yellow-500 font-extrabold tracking-wider text-sm">DEVESH</strong>
         </span>
-        <i class="fa-solid fa-heart text-red-500 text-xs"></i>
+        <i class="fa-solid fa-bolt text-gold-400 text-xs"></i>
       </div>
     </div>
   </footer>
 
   <script>
-    // Live Minecraft Server Status & Player Counter Integration
+    // Live Minecraft Server Status & Player Counter Integration (STRICTLY REAL DATA)
     const SERVER_HOST = 'play.ghostmc.info.gf';
-    const SERVER_BEDROCK_PORT = 19153;
-    const defaultRoster = [
-      "flaxxy444",
-      "senkist13",
-      "Subham0G",
-      "AlyaaTsb",
-      "BTX_GAMERZ",
-      "Mr_Legend"
-    ];
+    const SERVER_PORT = 19153;
 
-    function renderPlayerChips(names) {
+    function renderRealPlayers(onlineCount, maxCount, playerList) {
       const cardPlayersList = document.getElementById('card-players-list');
       const rosterCountTag = document.getElementById('roster-count-tag');
       const playersOnlineElem = document.getElementById('server-players-online');
+      const playersMaxElem = document.getElementById('server-players-max');
       const playersStatusElem = document.getElementById('server-players-status');
+      const playersPulseDot = document.getElementById('players-pulse-dot');
+
+      if (playersOnlineElem) playersOnlineElem.textContent = onlineCount !== undefined ? onlineCount : 0;
+      if (playersMaxElem) playersMaxElem.textContent = maxCount ? `/ ${maxCount}` : '/ --';
+      if (rosterCountTag) rosterCountTag.textContent = `${onlineCount || 0} online`;
+
+      if (onlineCount > 0) {
+        if (playersStatusElem) playersStatusElem.textContent = `${onlineCount} player(s) online`;
+        if (playersPulseDot) {
+          playersPulseDot.className = 'w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse';
+        }
+      } else {
+        if (playersStatusElem) playersStatusElem.textContent = 'Server waiting for warriors';
+        if (playersPulseDot) {
+          playersPulseDot.className = 'w-1.5 h-1.5 rounded-full bg-slate-500';
+        }
+      }
 
       if (!cardPlayersList) return;
-      
-      const listToRender = (names && names.length > 0) ? names : defaultRoster;
-      
-      if (playersOnlineElem) playersOnlineElem.textContent = listToRender.length;
-      if (rosterCountTag) rosterCountTag.textContent = `${listToRender.length} active`;
-      if (playersStatusElem) playersStatusElem.textContent = `${listToRender.length} active combatants`;
 
-      cardPlayersList.innerHTML = listToRender.map(name => `
-        <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
-          <img src="https://mc-heads.net/avatar/${encodeURIComponent(name)}/18" onerror="this.src='https://placehold.co/18x18/1e293b/fbbf24?text=${encodeURIComponent(name.charAt(0))}'" alt="${name}" class="w-3.5 h-3.5 rounded-sm">
-          <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">${name}</span>
-        </div>
-      `).join('');
+      if (playerList && playerList.length > 0) {
+        cardPlayersList.innerHTML = playerList.map(p => {
+          const name = typeof p === 'string' ? p : (p.name_clean || p.name_raw || p.name || 'Player');
+          return `
+            <div class="inline-flex items-center gap-1.5 bg-slate-900/90 border border-gold-500/40 px-2 py-0.5 rounded-md shadow-sm">
+              <img src="https://mc-heads.net/avatar/${encodeURIComponent(name)}/18" onerror="this.src='https://mc-heads.net/avatar/MHF_Steve/18'" alt="${name}" class="w-3.5 h-3.5 rounded-sm">
+              <span class="font-mono font-bold text-[10px] text-gold-300 truncate max-w-[110px]">${name}</span>
+            </div>
+          `;
+        }).join('');
+      } else if (onlineCount > 0) {
+        cardPlayersList.innerHTML = `<span class="text-[11px] text-amber-300 font-medium">${onlineCount} player(s) online in-game</span>`;
+      } else {
+        cardPlayersList.innerHTML = `<span class="text-[11px] text-slate-500 italic">0 players online right now</span>`;
+      }
     }
 
     async function fetchLiveServerStatus() {
       const refreshIcon = document.getElementById('refresh-icon');
       const statusText = document.getElementById('server-status-text');
       const statusBadge = document.getElementById('server-status-badge');
+      const statusDot = document.getElementById('server-status-dot');
+      const telemetryDot = document.getElementById('telemetry-dot');
       const lastUpdatedElem = document.getElementById('last-updated-text');
+      const serverVersionText = document.getElementById('server-version-text');
 
       if (refreshIcon) refreshIcon.classList.add('fa-spin');
-      if (statusText) statusText.textContent = 'Server Online';
+      if (statusText) statusText.textContent = 'Pinging...';
 
+      let isOnline = false;
+      let onlineCount = 0;
+      let maxCount = null;
+      let playerList = [];
+      let versionDetected = 'play.ghostmc.info.gf';
+
+      // 1. Try public Java Status API (mcstatus.io)
       try {
-        let playerList = [];
-        const response = await fetch(`https://api.mcstatus.io/v2/status/java/${SERVER_HOST}:${SERVER_BEDROCK_PORT}`, { cache: 'no-store' });
-        
-        if (response.ok) {
-          const data = await response.json();
-          if (data && data.online && data.players && Array.isArray(data.players.list) && data.players.list.length > 0) {
-            playerList = data.players.list.map(p => typeof p === 'string' ? p : (p.name_clean || p.name_raw || p.name));
+        const res = await fetch(`https://api.mcstatus.io/v2/status/java/${SERVER_HOST}:${SERVER_PORT}`, { cache: 'no-store' });
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.online) {
+            isOnline = true;
+            onlineCount = data.players ? data.players.online : 0;
+            maxCount = data.players ? data.players.max : null;
+            if (data.players && Array.isArray(data.players.list)) {
+              playerList = data.players.list;
+            }
+            if (data.version && data.version.name_clean) {
+              versionDetected = data.version.name_clean;
+            }
           }
         }
-
-        renderPlayerChips(playerList.length > 0 ? playerList : defaultRoster);
-      } catch (err) {
-        renderPlayerChips(defaultRoster);
-      } finally {
-        if (statusText) statusText.textContent = 'Server Online';
-        if (statusBadge) statusBadge.className = 'font-bold flex items-center gap-2 text-base mt-1.5 text-emerald-400';
-        if (refreshIcon) {
-          setTimeout(() => refreshIcon.classList.remove('fa-spin'), 600);
-        }
-        const now = new Date();
-        const timeStr = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-        if (lastUpdatedElem) lastUpdatedElem.textContent = `(Updated: ${timeStr})`;
+      } catch (e) {
+        console.warn('API 1 ping failed:', e);
       }
+
+      // 2. If Java ping did not return online, try mcsrvstat.us
+      if (!isOnline) {
+        try {
+          const res = await fetch(`https://api.mcsrvstat.us/3/${SERVER_HOST}:${SERVER_PORT}`, { cache: 'no-store' });
+          if (res.ok) {
+            const data = await res.json();
+            if (data && data.online) {
+              isOnline = true;
+              onlineCount = data.players ? data.players.online : 0;
+              maxCount = data.players ? data.players.max : null;
+              if (data.players && Array.isArray(data.players.list)) {
+                playerList = data.players.list;
+              }
+              if (data.version) {
+                versionDetected = data.version;
+              }
+            }
+          }
+        } catch (e) {
+          console.warn('API 2 ping failed:', e);
+        }
+      }
+
+      // 3. Fallback Bedrock query (if server is running as Bedrock/Geyser on port 19153)
+      if (!isOnline) {
+        try {
+          const res = await fetch(`https://api.mcstatus.io/v2/status/bedrock/${SERVER_HOST}:${SERVER_PORT}`, { cache: 'no-store' });
+          if (res.ok) {
+            const data = await res.json();
+            if (data && data.online) {
+              isOnline = true;
+              onlineCount = data.players ? data.players.online : 0;
+              maxCount = data.players ? data.players.max : null;
+              if (data.version && data.version.name) {
+                versionDetected = data.version.name;
+              }
+            }
+          }
+        } catch (e) {
+          console.warn('API 3 Bedrock ping failed:', e);
+        }
+      }
+
+      // Update UI with 100% REAL telemetry
+      if (isOnline) {
+        if (statusText) statusText.textContent = 'Online';
+        if (statusBadge) statusBadge.className = 'font-bold flex items-center gap-2 text-base mt-1.5 text-emerald-400';
+        if (statusDot) {
+          statusDot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-400 shadow-[0_0_10px_#34d399]';
+        }
+        if (telemetryDot) telemetryDot.className = 'inline-block w-2 h-2 rounded-full bg-emerald-400 animate-ping';
+        if (serverVersionText) serverVersionText.textContent = versionDetected;
+      } else {
+        if (statusText) statusText.textContent = 'Offline';
+        if (statusBadge) statusBadge.className = 'font-bold flex items-center gap-2 text-base mt-1.5 text-rose-500';
+        if (statusDot) {
+          statusDot.className = 'w-2.5 h-2.5 rounded-full bg-rose-500 shadow-[0_0_10px_#f43f5e]';
+        }
+        if (telemetryDot) telemetryDot.className = 'inline-block w-2 h-2 rounded-full bg-rose-500';
+        if (serverVersionText) serverVersionText.textContent = 'Server Unreachable';
+      }
+
+      renderRealPlayers(onlineCount, maxCount, playerList);
+
+      if (refreshIcon) {
+        setTimeout(() => refreshIcon.classList.remove('fa-spin'), 600);
+      }
+      const now = new Date();
+      const timeStr = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      if (lastUpdatedElem) lastUpdatedElem.textContent = `(Updated: ${timeStr})`;
     }
 
-    // Run on load and poll every 35 seconds
+    // Run on load and poll every 30 seconds
     window.addEventListener('DOMContentLoaded', () => {
-      renderPlayerChips(defaultRoster);
       fetchLiveServerStatus();
-      setInterval(fetchLiveServerStatus, 35000);
+      setInterval(fetchLiveServerStatus, 30000);
     });
-
-    // Lightbox modal functions
-    function openImageModal(imgSrc, caption) {
-      const modal = document.getElementById('image-modal');
-      const imgElem = document.getElementById('modal-img-element');
-      const captionElem = document.getElementById('modal-img-caption');
-      
-      imgElem.src = imgSrc;
-      captionElem.textContent = caption || 'Ghost MC PVP Event Screenshot';
-      
-      modal.classList.remove('opacity-0', 'pointer-events-none');
-      modal.classList.add('opacity-100', 'pointer-events-auto');
-    }
-
-    function closeImageModal() {
-      const modal = document.getElementById('image-modal');
-      modal.classList.add('opacity-0', 'pointer-events-none');
-      modal.classList.remove('opacity-100', 'pointer-events-auto');
-    }
 
     // Payment Modal Functions
     function openPaymentModal() {
